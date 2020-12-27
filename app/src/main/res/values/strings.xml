@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project-Wallet</string>
+    <string name="title_home">Cash</string>
+    <string name="title_dashboard">Analyst</string>
+    <string name="title_notifications">History</string>
+    <string name="balance">BALANCE:</string>
+    <string name="spend_cash">Spend Cash</string>
+    <string name="balance_value">0</string>
+    <string name="add_cash">Add Cash</string>
+    <string name="enter_your_value">Enter your value</string>
+    <string name="refresh_wallet">Change Wallet</string>
+    <string name="logout">Logout</string>
+    <string name="exit">Exit</string>
+</resources>
